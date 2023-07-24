@@ -3,7 +3,7 @@
 ### Briefing
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for me:
 
-![image](https://github.com/AdrijeGuha/Call-Centre-Trends/blob/main/images/232359133-0cb4ddb7-109b-415a-b9ce-2e158cde9150.png?raw=true)
+![image](https://github.com/AdrijeGuha/Customer-Retention/blob/0f8ff90c04885918a4be88a57f0fd2e73aebc735/images/Retention_Manager_mail.png)
 
 #### The task 🛠️
 
@@ -22,4 +22,4 @@ After cleaning and modelling the data to a star schema, my solution was to creat
 As part of my PwC Virtual Internship, I created a dashboard in Power BI for Janet, a Retention Manager from telecom, that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 Scan the QR code for the link to the dashboard  
-![image](https://github.com/AdrijeGuha/Diversity-and-Inclusion/blob/af76241ecdb9bbe614b43ea4e52d904e5e0a78f0/images/Customer_Churn.jpg)
+![image](https://github.com/AdrijeGuha/Customer-Retention/blob/0f8ff90c04885918a4be88a57f0fd2e73aebc735/images/Customer_Churn.jpg)
